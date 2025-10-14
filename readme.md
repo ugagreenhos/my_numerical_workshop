@@ -10,9 +10,11 @@ List of plans
 1. element 2
 1. dotted element
     1. sublist element
+    1. second sublist element
 
 ## mathematical formulas
 $E = mc^2$
+
 
 ```
 MOV RA, 0x01
@@ -23,3 +25,5 @@ JNE RA, RB
 
 **bold**
 *italics*
+
+This is some modified text in a new commit to compare with what is initially uploaded.
