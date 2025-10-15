@@ -1,3 +1,9 @@
+<script type="text/javascript"
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 ## Title
 body text
 Links: [Github](http://www.github.com)
@@ -27,3 +33,4 @@ JNE RA, RB
 *italics*
 
 This is some modified text in a new commit to compare with what is initially uploaded.
+
